@@ -1,9 +1,5 @@
 'use strict'
 
-/**
- * Module dependencies.
- */
-
 var express = require('../..');
 var hash = require('pbkdf2-password')()
 var path = require('path');
